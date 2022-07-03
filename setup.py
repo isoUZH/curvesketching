@@ -11,7 +11,7 @@ setuptools.setup(
     description="A simple package for Curve Sketching",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/isoUZH/curvesketching.git",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
